@@ -62,7 +62,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define NUMBER_TIMER_CAPTURES       20
+#define NUMBER_TIMER_CAPTURES       25
 
 /* Port mapper configuration register */
 const uint8_t port2_mapping[] =
